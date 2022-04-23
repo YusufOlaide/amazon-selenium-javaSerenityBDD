@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Product Page" skipped="0" tests="1" time="29.78" timestamp="2022-04-23 05:51:20"><testcase name="Verify Product About Me Section"><error message="Unable to locate element: //div[contains(text(),'TV, Appliances, Electronics')]&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'ISW-INIT-MU', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 5296, moz:profile: C:\Users\Yusuff.Olaide\AppD..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}&#10;Session ID: 907600a1-107d-4681-b1ca-11a5d340e82b&#10;*** Element info: {Using=xpath, value=//div[contains(text(),'TV, Appliances, Electronics')]}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'ISW-INIT-MU', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">Unable to locate element: //div[contains(text(),'TV, Appliances, Electronics')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ISW-INIT-MU', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 5296, moz:profile: C:\Users\Yusuff.Olaide\AppD..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 907600a1-107d-4681-b1ca-11a5d340e82b
+*** Element info: {Using=xpath, value=//div[contains(text(),'TV, Appliances, Electronics')]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ISW-INIT-MU', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: driver.version: unknown</error><system-err>Unable to locate element: //div[contains(text(),'TV, Appliances, Electronics')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ISW-INIT-MU', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 5296, moz:profile: C:\Users\Yusuff.Olaide\AppD..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 907600a1-107d-4681-b1ca-11a5d340e82b
+*** Element info: {Using=xpath, value=//div[contains(text(),'TV, Appliances, Electronics')]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ISW-INIT-MU', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
+Driver info: driver.version: unknown&#13;
+com.org.clipboardHealth.pom.pages.HomePage.clickOnDeptOption(HomePage.java:32)&#13;
+com.org.clipboardHealth.steps.ProductStepDefinition.userShopsByDepartment(ProductStepDefinition.java:45)&#13;
+✽.User shops by department(file:///C:/Users/Yusuff.Olaide/eclipse-workspace/com.org.clipboardHealth/src/test/resources/features/product/product.feature:8)&#13;
+</system-err></testcase></testsuite>
