@@ -1,4 +1,4 @@
-# clipboardHealth-selenium-javaSerenityBDD
+# Selenium-javaSerenityBDD
 
 The project framework used is called Serenity BDD. 
 
